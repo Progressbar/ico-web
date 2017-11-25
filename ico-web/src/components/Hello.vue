@@ -13,18 +13,43 @@
         when
       </li>
       <li>
-        hardcap?
+        more about ico
       </li>
     </ul>
-    <h2>Why you want help us</h2>
+    <h2>Why we need your help</h2>
     <ul>
       <li>
-        ~
+        visualisations of new space
       </li>
       <li>
-        ~
+        bill of costs & materials
+      </li>
+      <li>
+        cowork model
+      </li>
+      <li>
+        space for bigger meetups
+      </li>
+      <li>
+        meeting room
+      </li>
+      <li>
+        hackerspace
       </li>
     </ul>
+    <h3>What we have now</h3>
+    <li>
+      <a href="https://progressbar.sk">main hackerspace page</a>
+    </li>
+    <li>
+      <a href="https://progressbar.sk/calendar">lot of meetups in our space</a>
+    </li>
+    <li>
+      <a href="https://cowork.progressbar.sk">working cowork in Bratislava</a>
+    </li>
+    <li>
+      <a href="httsp://donate.progressbar.sk">donation page</a>
+    </li>
   </div>
 </template>
 

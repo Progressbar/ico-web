@@ -1,8 +1,9 @@
 <template>
   <div id="app">
     <header>
-      <span>ico.progressbar hackerspace</span>
+      <span>ico.progressbar.sk hackerspace</span>
     </header>
+
     <main>
       <img src="./assets/progressbar_negative.png" alt="progressbar hackerspace">
       <router-view></router-view>
